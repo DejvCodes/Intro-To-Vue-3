@@ -1,5 +1,5 @@
 ## Intro To Vue 3 - Vue Mastery
-• Creating the Vue App
+Creating the Vue App
 • Attribute Binding
 • Conditional Rendering
 • List Rendering
